@@ -1,0 +1,15 @@
+﻿  Lenstroy.cpp
+C:\Users\TheGrayCode\source\repos\Lenstroy_dotNET_2\Lenstroy_dotNET_2\Lenstroy.h(36,9): warning C4068: неизвестная прагма "GCC"
+C:\Users\TheGrayCode\source\repos\Lenstroy_dotNET_2\Lenstroy_dotNET_2\Lenstroy.h(37,9): warning C4068: неизвестная прагма "GCC"
+C:\Users\TheGrayCode\source\repos\Lenstroy_dotNET_2\Lenstroy_dotNET_2\Lenstroy.cpp(59,19): warning C4804: %: небезопасное использование типа "bool" в операции
+C:\Users\TheGrayCode\source\repos\Lenstroy_dotNET_2\Lenstroy_dotNET_2\Lenstroy.cpp(104,10): warning C4244: инициализация: преобразование "Lenstroy::ll" в "int", возможна потеря данных
+C:\Users\TheGrayCode\source\repos\Lenstroy_dotNET_2\Lenstroy_dotNET_2\Lenstroy.cpp(114,17): warning C4244: return: преобразование "Lenstroy::ll" в "int", возможна потеря данных
+C:\Users\TheGrayCode\source\repos\Lenstroy_dotNET_2\Lenstroy_dotNET_2\Lenstroy.cpp(136,40): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  MyForm.cpp
+C:\Users\TheGrayCode\source\repos\Lenstroy_dotNET_2\Lenstroy_dotNET_2\Lenstroy.h(36,9): warning C4068: неизвестная прагма "GCC"
+C:\Users\TheGrayCode\source\repos\Lenstroy_dotNET_2\Lenstroy_dotNET_2\Lenstroy.h(37,9): warning C4068: неизвестная прагма "GCC"
+C:\Users\TheGrayCode\source\repos\Lenstroy_dotNET_2\Lenstroy_dotNET_2\MyForm.h(185,67): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
+  Lenstroy.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Lenstroy_dotNET_2.vcxproj -> C:\Users\TheGrayCode\source\repos\Lenstroy_dotNET_2\Release\Lenstroy_dotNET_2.exe

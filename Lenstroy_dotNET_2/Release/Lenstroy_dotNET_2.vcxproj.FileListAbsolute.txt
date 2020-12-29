@@ -1,0 +1,2 @@
+C:\Users\TheGrayCode\source\repos\Lenstroy_dotNET_2\Lenstroy_dotNET_2\Release\LenstroydotNET2.MyForm.resources
+C:\Users\TheGrayCode\source\repos\Lenstroy_dotNET_2\Lenstroy_dotNET_2\Release\Lenstroy_dotNET_2.vcxproj.GenerateResource.cache
